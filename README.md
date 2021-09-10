@@ -8,8 +8,6 @@
 [![Linkedin: ensarakkuzey](https://img.shields.io/badge/-ensarakkuzey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ensarakkuzey/)](https://www.linkedin.com/in/ensarakkuzey/)
 [![GitHub ensarakkuzey](https://img.shields.io/github/followers/ensarakkuzey?label=follow&style=social)](https://github.com/ensarakkuzey)
 
-![Steam ensarakkuzey](https://img.shields.io/steam/followers/ensarakkuzey?label=follow&style=social)](https://github.com/ensarakkuzey)
-
 
 ## Languages & Tools
 <h5 align="left">Programming Languages:</h5>  
