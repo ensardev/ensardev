@@ -4,8 +4,8 @@
 <p><em>Software Enginner at <a href="http://tursys.com.tr">Tursys</a></br><br>Graduated from <a href="https://www.sakarya.edu.tr">Sakarya University</a>
 </em></p>
 
-[![Twitter: Ensar Akkuzey](https://img.shields.io/twitter/follow/EnsarAkkuzey?style=social)](https://twitter.com/ensarakkuzey)
-[![Linkedin: ensarakkuzey](https://img.shields.io/badge/-ensarakkuzey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ensarakkuzey/)](https://www.linkedin.com/in/ensarakkuzey/)
+[![Twitter: Ensar Akkuzey](https://img.shields.io/twitter/follow/EnsarAkkuzey?style=social)](https://twitter.com/ensarakkuzey)<br/>
+[![Linkedin: ensarakkuzey](https://img.shields.io/badge/-ensarakkuzey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ensarakkuzey/)](https://www.linkedin.com/in/ensarakkuzey/)<br/>
 [![GitHub ensarakkuzey](https://img.shields.io/github/followers/ensarakkuzey?label=follow&style=social)](https://github.com/ensarakkuzey)
 
 
