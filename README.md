@@ -1,7 +1,7 @@
  <h2> Hi, I'm Ensar <img src="http://24.media.tumblr.com/69be7a4c5dd5fc81a5c40eeedfb3f475/tumblr_mr89xphMKP1ra3pdvo1_500.gif" width="50"></h2>
  
 <img align='right' src="https://media.giphy.com/media/b21HcSrrBu8pi/giphy.gif?cid=ecf05e473c7it9uzrj0j1a0k0etz73lfud7tivq4dq8894re&rid=giphy.gif&ct=g" width="230">
-<p><em>Software Enginner at <a href="http://tursys.com.tr">Tursys</a></br>Graduated from <a href="https://www.sakarya.edu.tr">Sakarya University</a>
+<p><em>Software Enginner at <a href="http://tursys.com.tr" target="_blank">Tursys</a> , <a href="http://islem.com/" target="_blank">İşlem Comp.</a></br>Graduated from <a href="https://www.sakarya.edu.tr">Sakarya University</a>
 </em></p>
 
 [![ensarakkuzey - follow me!](https://img.shields.io/badge/ensarakkuzey-follow_me!-2ea44f?logo=twitter&logoColor=%23BDBDBD)](https://twitter.com/ensarakkuzey)<br/>
