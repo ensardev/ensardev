@@ -37,4 +37,7 @@
 <br/>
 <br/>
 ---
-![ensardev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ensardev&show_icons=true&theme=dark)
+<!-- ![ensardev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ensardev&show_icons=true&theme=dark) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oguzhanaydemir&theme=tokyonight)](https://git.io/streak-stats) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ensardev&theme=blood-dark&hide_border=true&border_radius=5&locale=tr&stroke=55DDDB&dates=76BCDD&currStreakNum=55DDDB&sideNums=55DDDB)](https://git.io/streak-stats)
