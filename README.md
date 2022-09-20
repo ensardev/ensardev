@@ -4,9 +4,9 @@
 <p><em>Software Enginner at <a href="http://tursys.com.tr" target="_blank">Tursys</a> , <a href="http://islem.com/" target="_blank">İşlem Comp.</a></br>Graduated from <a href="https://www.sakarya.edu.tr">Sakarya University</a>
 </em></p>
 
-[![ensarakkuzey - follow me!](https://img.shields.io/badge/ensarakkuzey-follow_me!-2ea44f?logo=twitter&logoColor=%23BDBDBD)](https://twitter.com/ensarakkuzey)<br/>
+[![ensarakkuzey - follow me!](https://img.shields.io/badge/ensardev-follow_me!-2ea44f?logo=twitter&logoColor=%23BDBDBD)](https://twitter.com/ensardev)<br/>
 [![ensarakkuzey - contact me!](https://img.shields.io/badge/ensarakkuzey-contact_me!-2ea44f?logo=linkedin&logoColor=%23BDBDBD)](https://www.linkedin.com/in/ensarakkuzey/)<br/>
-[![ensarakkuzey - coding now!](https://img.shields.io/badge/ensarakkuzey-coding_now!-2ea44f?logo=github&logoColor=%23BDBDBD)](https://github.com/ensarakkuzey)
+[![ensarakkuzey - coding now!](https://img.shields.io/badge/ensardev-coding_now!-2ea44f?logo=github&logoColor=%23BDBDBD)](https://github.com/ensardev)
 
 ## Languages & Tools
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
